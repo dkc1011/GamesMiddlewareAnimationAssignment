@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QuickStartScene.unity
+    guid: 9ee71299b47ad194397a88bb4001880a
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerScene.unity
+    guid: 3905ab1e0a693214cae5c39d98a426f8
+  m_configObjects: {}
